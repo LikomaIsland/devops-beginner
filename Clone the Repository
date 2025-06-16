@@ -1,0 +1,16 @@
+Step 2: Clone the Repository to Your Local Machine
+This allows offline development of code. You can develop features, fix bugs, and test locally, and push
+those changes up to the remote repository. It also provides a local backup of the project.
+1. Copy the repository URL:
+o After creating the repository, you will be redirected to the repository’s page.
+o Click the Code button and copy the repository’s URL (it should look like
+https://github.com/username/repo-name.git).
+2. Clone the repository:
+o Open a terminal or Git Bash on your local machine.
+o Run the following command to clone the repository (replace your-repo-url with the
+URL you copied):
+git clone your-repo-url
+o You now have a local copy of your GitHub repository.
+3. Navigate to the cloned directory:
+o Change the directory to your new repository:
+cd devops-beginner
